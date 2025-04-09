@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Arduino TeX Guides</h1>
+<h1>Arduino Guides</h1>
 
 <p>Welcome to the Arduino TeX Guides repository! This repository contains a collection of LaTeX-based documentation and PDF guides for Arduino projects. Whether you're a beginner or an advanced user, these professionally structured PDF guides will help you document and present your Arduino projects with ease.</p>
 
